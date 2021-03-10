@@ -1,7 +1,4 @@
-# Online Classroom Attention Tracker (OCAT)
-
-
-![Online Class Attention Tracker](5fps.gif "Online Class Attention Tracker")
+# Attention Monitor Detection
 
 Client:
 `python main.py --userid 123`
