@@ -3,7 +3,7 @@
 Client:
 `python main.py --userid 123`
 
-`python main.py --userid kenghooi --host 10.10.0.106`
+`python main.py --userid ssrohan --host hostid'
 
 - [x] Real time data visualization with PyQtGraph
 - [x] Face landmarks -eye, mouth monitor
@@ -12,9 +12,6 @@ Client:
 - [x] Post-session Attention Metrics Dashboard
 - [ ] face,person detection - attendance
 - [ ] human pose estimation - engagement, ergonomics
-
-### Contributors
-William Ardianto, Kenghooi Teoh, Leonard Loh, Choo Wilson.
 
 ### Pretrained Weights
 - [Dlib face landmarks weight - GDRIVE](https://drive.google.com/file/d/1o-lotnZJcSCuHixTI9ponYNXjBmbMggt/view?usp=sharing)
